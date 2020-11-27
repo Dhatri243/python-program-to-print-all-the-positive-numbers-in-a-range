@@ -1,0 +1,4 @@
+1.nums = [12,-7,5,64,-14]
+2.print ("original numbers in the list: ",nums)
+3.new_nums = list(filter(lambda x: x >0,nums))
+4.print (" positive numbers in the list: ",new_nums)
